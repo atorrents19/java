@@ -4,7 +4,7 @@
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
- * Copyright 2020 Adrian Torrents <atorrents19@ilg.cat>
+ * Copyright 2020 Adrian Torrent <atorrents19@ilg.cat>
  *
  * This is free software, licensed under the GNU General Public License v3.
  * See http://www.gnu.org/licenses/gpl.html for more information.
@@ -45,7 +45,7 @@ public class Program {
 
 		Scanner in = new Scanner(System.in);
 
-		System.out.println("Enter the radius in meter: ");
+		System.out.println("Enter the radius: ");
 		double radi = in.nextDouble();
 
 		in.close();
