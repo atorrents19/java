@@ -17,7 +17,7 @@ public class Program {
 	/**
 	 * Calculates the area of a circle
 	 * 
-	 * @param radius is a double numbers
+	 * @param radius is a double number 
 	 * @return a double: the area of a circle
 	 */
 	public static double area(double radius) {
